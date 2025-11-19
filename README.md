@@ -22,52 +22,29 @@
 ###
 
 <h3 >Programming Language</h3>
-## 💻 Skills & Technologies
-<p align="center">
+<p >
   <img src="https://skillicons.dev/icons?i=js,c,cpp,python,java" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=figma,canva" />
 </p>
-###
 
-<h3 align="center">Frontend</h3>
-###
-<img src="https://skillicons.dev/icons?i=js,c,cpp,python,java" />
+<h3 >Frontend</h3>
+<p >
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+  <br/>
+</p>
 <h3>Backend</h3>
+<p >
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb" />
+  <br/>
+</p>
 
-###
+<h3 >Tools & Technologies</h3>
+<p >
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,notion" />
+  <br/>
+</p>
 
-<div display="flex">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
-<h3 align="center">Tools & Technologies</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-</div>
-
-###
-
-<h1 align="center">Connet with me</h1>
-
-###
+<h1 >Connet with me</h1>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mohammad-ayas/" target="_blank">
@@ -83,28 +60,14 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
+</br>
+<div >
   <img src="https://github-readme-stats.vercel.app/api?username=AYAS-MAHMUD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AYAS-MAHMUD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/AYAS-MAHMUD/AYAS-MAHMUD/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AYAS-MAHMUD.AYAS-MAHMUD&"  />
-</div>
-
-###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=300&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-###
