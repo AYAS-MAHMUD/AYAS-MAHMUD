@@ -1,8 +1,7 @@
 <img align="left" height="600" src="https://i.ibb.co.com/LzpvMdL4/Black-White-Modern-Financial-Content-You-Tube-Banner.png"  />
+<img width="12" />
 
-###
-
-<h1 align="center">👋 Hello , I'm Mohammad Ayas</h1>
+<h1 >👋 Hello , I'm Mohammad Ayas</h1>
 
 ###
 
@@ -10,59 +9,37 @@
 
 ###
 
-<h1 align="center">🚀 What I Do</h1>
+<h1 >🚀 What I Do</h1>
 
 ###
 
-<p align="left">🧩  Build responsive, modern, and user-friendly web applications<br><br>💻  Explore new technologies, tools, and frameworks<br><br>🛠️  Solve challenging problems using clean and efficient code<br><br>📚  Continuously learn and improve by working on real-world projects</p>
+<p >🧩  Build responsive, modern, and user-friendly web applications<br><br>💻  Explore new technologies, tools, and frameworks<br><br>🛠️  Solve challenging problems using clean and efficient code<br><br>📚  Continuously learn and improve by working on real-world projects</p>
 
 ###
 
-<h1 align="center">Tech Stack</h1>
+<h1 >Tech Stack</h1>
 
 ###
 
-<h3 align="center">Programming Language</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div>
-
+<h3 >Programming Language</h3>
+## 💻 Skills & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,c,cpp,python,java" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
+</p>
 ###
 
 <h3 align="center">Frontend</h3>
+###
+<img src="https://skillicons.dev/icons?i=js,c,cpp,python,java" />
+<h3>Backend</h3>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-</div>
-
-###
-
-<h3 align="center">Backend</h3>
-
-###
-
-<div align="left">
+<div display="flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
