@@ -61,10 +61,8 @@
   </a>
 </div>
 </br>
-<div >
-  <img src="https://github-readme-stats.vercel.app/api?username=AYAS-MAHMUD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AYAS-MAHMUD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+Resume : https://drive.google.com/file/d/1Ra5w1k3KwpAl39G6Ggzkg_jik3vJX7UP/view?usp=sharing
+</br>
 </br>
 <div>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AYAS-MAHMUD.AYAS-MAHMUD&"  />
