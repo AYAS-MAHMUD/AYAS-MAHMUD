@@ -1,7 +1,6 @@
 <img align="left" height="600" src="https://i.ibb.co.com/LzpvMdL4/Black-White-Modern-Financial-Content-You-Tube-Banner.png"  />
 <img width="12" />
 
-<h1 >👋 Hello , I'm Mohammad Ayas</h1>
 
 ###
 
@@ -9,7 +8,7 @@
 
 ###
 
-<h1 >🚀 What I Do</h1>
+<h1 >What I Do</h1>
 
 ###
 
@@ -29,18 +28,18 @@
 
 <h3 >Frontend</h3>
 <p >
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
   <br/>
 </p>
 <h3>Backend</h3>
 <p >
-  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=typescript,nodejs,expressjs,mongodb,postgresql,prisma," />
   <br/>
 </p>
 
 <h3 >Tools & Technologies</h3>
 <p >
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,notion" />
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,notion,postman" />
   <br/>
 </p>
 
