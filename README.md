@@ -1,10 +1,8 @@
-<img align="left" height="600" src="https://i.ibb.co.com/LzpvMdL4/Black-White-Modern-Financial-Content-You-Tube-Banner.png"  />
-<img width="12" />
-
-
-###
-
-<p align="left">I'm a passionate and dedicated Computer Science Student and an aspiring Full-Stack Developer who loves turning ideas into real, functional digital experiences.</p>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcms1cXczajQxb2pvZnQ2MWVxZGhlNXF5ODBxNmNsbW44M2Z0ejAwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" 
+       alt="Project Demo" 
+       width="10000"/>
+</p>
 
 ###
 
